@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Optima', sans-serif;
+}
+body{
+    background-color: #FFFAFB !important;
+}
+.navbar-brand img{
+    width: 60px;
+    height: 60px;
+}
+.jumbotron{
+    background-image: linear-gradient(-90deg,#00779e,#00aabd) !important;
+    color: rgb(255, 255, 255);
+}
+#roundName {
+    text-align: center;
+    padding: 30px;
+    font-size: 5vw;
+    background-image: linear-gradient(-90deg,#00779e,#00aabd) !important;
+    color: white;
+}
+#clock {
+    text-align: center;
+    padding: 5px;
+    font-size: 20vw;
+    font-weight: 350;
+    color: black;
+}
+#buttonGroup {
+    margin-top: 20px;
+    max-width: 580px;
+}
+.btn {
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px 20px !important;
+}
+.btn-primary{
+    background-color: #00779e !important;
+}
+.btn-primary:hover{
+    background-color: #005e7e !important;
+}
+
+#nextName{
+    text-align: center;
+}
+.stretched-link{
+    font-size: 15px;
+    font-weight: 600;
+    color: #00779e !important;
+
+}
+.stretched-link:hover{
+    color: #0094c5 !important;
+}
+.hover:hover{
+    background-color: rgb(230, 230, 230) !important;
+}
+footer{
+    margin-top: 30px;
+    background-color: #3d3d3d !important;
+}
+footer p{
+    color: #c2c2c2;
+}
